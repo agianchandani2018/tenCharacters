@@ -1,7 +1,6 @@
 golf
 soccer
 swimming
-bobsledding
-crosscountry
-rockclimbing
-
+bobsleddin
+cross coun
+rock climb
